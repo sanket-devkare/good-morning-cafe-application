@@ -1,0 +1,41 @@
+table{
+    font-size: 30px;
+    border: none;
+
+}
+th, td{
+    border: none;
+}
+section{
+	left: 375px;
+    top: 20%;
+}
+.infoTile{
+    border: 4px rgb(128, 70, 128) solid;
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(128, 70, 128);
+    border-radius: 15px;
+    width: 450px;
+    
+}
+.infoTitle{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.infoResult{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.recipeButton{
+    font-size: 30px;
+    margin-top: 50px;
+}
+.button input:hover{
+    background-color: darkcyan;
+}
+.adminloginbutton input:hover{
+    background-color: darkcyan;
+}

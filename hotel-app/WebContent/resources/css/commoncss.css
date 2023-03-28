@@ -1,0 +1,97 @@
+body{
+    width: 1750px;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    color: darkslateblue;
+    font-size: 35px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header h1{
+    margin: 0px;
+}
+.pageTitle h3{
+    margin: 0px;
+}
+main{
+    position: relative;
+    width: 1300px;
+    text-align: center;
+}
+section{
+    position: absolute;
+    top: 10%;
+    left: 600px;
+}
+.adminloginbutton{
+    text-align: right;
+}
+.adminloginbutton input{
+    font-size: 25px;
+    border: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    border-radius: 10px;
+}
+
+.button input{
+    font-size: 25px;
+    border: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    border-radius: 10px;            
+}
+.pageTitle{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(102, 153, 204);
+}
+table{
+    font-size: 30px;
+    border: 2px brown solid;
+    border-collapse: collapse;
+    width: 600px;
+}
+th, td{
+    border: 2px brown solid;
+}
+th{
+	background-color: brown;
+	color: white;
+	font-size: 1.15em;	
+}
+a{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    border-radius: 10px;
+}
+
+.adminloginbutton input:hover {
+	background-color: darkcyan;
+}
+.button input:hover {
+	background-color: darkcyan;
+}
+a:hover{
+    background-color: darkcyan;
+}
+
+

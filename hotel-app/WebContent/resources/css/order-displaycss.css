@@ -1,0 +1,26 @@
+.tableNumber{
+	font-size: 30px;
+}
+.tableNumberInput{
+    border: none;
+    font-size: 30px;
+    width: 100px;
+}
+.recipeInput{
+	border: none;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.input{
+	font-size: 30px;
+	margin: 5px;
+	width: 100px;
+	text-align: center;
+}
+table{
+	width: 700px;
+}
+section{
+	left: 550px;	
+}	

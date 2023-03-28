@@ -1,0 +1,70 @@
+body{
+    width: 1300px;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    font-size: 30px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50px;
+}
+.address{
+    font-size: 0.75em;
+}
+h1{
+    margin-bottom: 0px;
+}
+.detailsTable{
+    font-size: 25px;
+    width: 1300px;
+}
+.leftColumn{
+    text-align: left;
+    padding-left: 50px;
+}
+.rightColumn{
+    text-align: right;
+    padding-right: 50px;
+}
+.orderDetailsTable{
+    font-size: 25px;
+    border: 2px rgba(242, 6, 187, 0.85) solid;
+    border-collapse: collapse;
+    width: 1200px;
+    margin-left: 50px;
+
+}
+.orderDetailsTable th{
+    border: 2px rgba(242, 6, 187, 0.85) solid;
+}
+.orderDetailsTable td{
+    border: 2px rgba(242, 6, 187, 0.85) solid;
+}
+th{
+	background-color: rgb(111, 111, 111);
+	color: white;
+	font-size: 1.15em;	
+}
+.button input{
+    font-size: 35px;
+    border: none;
+    color: white;
+    background-color: rgb(111, 111, 111);
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button{
+    margin-left: 50px;
+    text-align: center;
+}
+.billItems{
+	text-align: center;
+}
+.button input:hover{
+    background-color: green
+}
